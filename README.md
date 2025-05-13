@@ -1,4 +1,4 @@
-# Hardening de servidor web. Implementación de HTTPS, CPS, HSTS, mitigación de configuración insegura e instalar WAF de ModSecurity con Reglas CRS de OWASP
+# Hardening de servidor web. Implementación de HTTPS, CPS, HSTS, mitigación de configuración insegura e instalar WAF de ModSecurity con Reglas CRS de OWASP - Alvaro
 
 Tenemos como objetivo:
 
@@ -40,9 +40,9 @@ Vamos realizando operaciones:
 
 ## Capturas del proceso - Alvaro
 
-1. 
+1. Sitio virtual: **www.pps-alvaro.com**
 
-
+![sitio virtual](images/alvaro/1.png)
 
 2. 
 
@@ -50,12 +50,6 @@ Vamos realizando operaciones:
 
 3. 
 
-
-
-
----
-
-## Capturas de las pruebas - Alvaro
 
 
 
