@@ -44,13 +44,17 @@ Vamos realizando operaciones:
 
 ![sitio virtual](images/alvaro/1.png)
 
-2. 
+2. Servidor virtual Hacker
 
+![sitio virtual](images/alvaro/2.png)
 
+3. Apache usando HTTPS
 
-3. 
+![sitio virtual](images/alvaro/3.png)
 
+![sitio virtual](images/alvaro/4.png)
 
+4. 
 
 
 ---
