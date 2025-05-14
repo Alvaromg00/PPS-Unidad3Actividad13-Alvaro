@@ -66,7 +66,16 @@ Vamos realizando operaciones:
 
 ![sitio virtual](images/alvaro/7.png)
 
-7. 
+![sitio virtual](images/alvaro/8.png)
+
+7. Identificación y Corrección de Security Misconfiguration
+
+![sitio virtual](images/alvaro/9.png)
+
+![sitio virtual](images/alvaro/10.png)
+
+![sitio virtual](images/alvaro/11.png)
+
 
 ---
 
