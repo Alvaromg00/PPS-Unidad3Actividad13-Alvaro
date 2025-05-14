@@ -66,7 +66,7 @@ Vamos realizando operaciones:
 
 ![sitio virtual](images/alvaro/7.png)
 
-
+7. 
 
 ---
 
