@@ -50,11 +50,22 @@ Vamos realizando operaciones:
 
 3. Apache usando HTTPS
 
-![sitio virtual](images/alvaro/3.png)
-
 ![sitio virtual](images/alvaro/4.png)
 
-4. 
+![sitio virtual](images/alvaro/3.png)
+
+4. Forzar HTTPS en Apache2 (default.conf y .htaccess)
+
+![sitio virtual](images/alvaro/5.png)
+
+5. 🛡️ Implementación y Evaluación de Content Security Policy (CSP)
+
+![sitio virtual](images/alvaro/6.png)
+
+6. 🛡️ Nota de seguridad extra: HSTS
+
+![sitio virtual](images/alvaro/7.png)
+
 
 
 ---
